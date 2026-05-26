@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Streamlit Cache
+.streamlit/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# TensorFlow Logs
+logs/
+
+# Temporary Files
+*.tmp
+
+# Model Checkpoints
+checkpoint
